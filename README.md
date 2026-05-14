@@ -1,9 +1,11 @@
 📊 Mobile Sales Analytics Dashboard | Power BI Business Analytics Project
 
 📌 Project Overview
-The Mobile Sales Analytics Dashboard is an end-to-end Business Intelligence solution developed using Microsoft Power BI to transform raw mobile sales data into actionable business insights through interactive visualizations and analytical reporting.
+The Mobile Sales Analytics Dashboard is an end-to-end Business Intelligence solution developed using Microsoft Power BI 
+to transform raw mobile sales data into actionable business insights through interactive visualizations and analytical reporting.
   
-This dashboard provides a comprehensive overview of sales performance, customer behavior, product trends, payment preferences, and regional sales distribution.The project demonstrates practical implementation of data cleaning, ETL processes, data modeling, DAX calculations, and dashboard design to support data-driven decision-making.
+This dashboard provides a comprehensive overview of sales performance, customer behavior, product trends, payment preferences, and regional sales distribution.
+The project demonstrates practical implementation of data cleaning, ETL processes, data modeling, DAX calculations, and dashboard design to support data-driven decision-making.
   
 Designed with a modern and interactive UI, the dashboard enables users to monitor KPIs, identify trends, and analyze business performance efficiently.
 
@@ -78,5 +80,17 @@ Designed with a modern and interactive UI, the dashboard enables users to monito
   -> Interactive slicers for better user experience
   -> Responsive and visually optimized reporting interface
 
-📸 Dashboard Preview - 
+📸 Dashboard Preview - https://github.com/Aritra2005new/Mobile_Sales_Dashboard/blob/main/Dashboard_Snapshot.png
+
+🔥 Future Enhancements
+  -> Integration with SQL Database
+  -> Real-time Data Refresh
+  -> Predictive Sales Forecasting
+  -> Customer Segmentation Analysis
+  -> Advanced DAX Optimization
+  -> Mobile Responsive Dashboard Version
+
+⭐ Conclusion
+The Mobile Sales Analytics Dashboard showcases the practical implementation of Power BI for business reporting and analytical visualization. 
+The project demonstrates strong capabilities in transforming raw data into meaningful insights using modern BI techniques, interactive reporting, and effective dashboard storytelling.
 
